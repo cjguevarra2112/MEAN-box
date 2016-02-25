@@ -1,0 +1,41 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "A Restful end-to-end application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "angularjs",
+    "express",
+    "mongodb"
+  ],
+  "author": "cjguevarra2112",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "connect": "^3.4.0",
+    "connect-redis": "^3.0.1",
+    "express": "^4.13.3",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.12.1",
+    "formidable": "^1.0.17",
+    "handlebars": "^4.0.5",
+    "hapi": "^13.0.0",
+    "jsonwebtoken": "^5.5.4",
+    "method-override": "^2.3.5",
+    "mongojs": "^2.3.0",
+    "mongoose": "^4.2.4",
+    "morgan": "^1.6.1",
+    "node-restful": "^0.2.5",
+    "passport": "^0.3.0",
+    "passport-facebook": "^2.1.0",
+    "passport-local": "^1.0.0",
+    "passport-twitter": "^1.0.4",
+    "redis": "^2.4.2",
+    "restify": "^4.0.4",
+    "underscore": "^1.8.3"
+  }
+}
